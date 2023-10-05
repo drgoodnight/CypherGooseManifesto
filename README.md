@@ -2,7 +2,7 @@
 
 This little project on Ordinals was inspired by the cypherpunk movement and a derivative of the cypherpunk lab cypherpunk manifesto located [here](https://github.com/cypherpunklab/manifesto).
 Dmitri Cherniak's recently published goose generator. I am approaching these
-subjects in a fun and combinatory way by merging the one of most important topics
+subjects in a fun and combinatory way by merging the one of the most important topics
 in life "freedom & privacy" with a meme "Geese by Cherniak".
 
 - 1st step: download and inscribe the HTML file containing the `A Cyphergoose's Manifesto`
