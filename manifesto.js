@@ -1,4 +1,4 @@
-fetch('/content/TXT')
+fetch('/content/f4c92840b4b9c78c20abd8b90638bf589caff0f849bb28d488f74d2b902bd8a4i0')
   .then(response => response.json())
   .then(data => {
     document.getElementById('title').innerText = data.title;
