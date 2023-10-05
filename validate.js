@@ -1,11 +1,11 @@
 const crypto = require('crypto');
 
 const explorer = 'https://ordinals.com';
-const inscriptionId = 'INSCRIPTION_ID';
+const inscriptionId = process.argv[2];
 const url = `${explorer}/content/${inscriptionId}`;
 
 const manifestoHash =
-  '1d3c686c4e9a02820bd825700dae97e75a1e157277d0ec2b2f4d851b66f9a5db';
+  '28b1308528f8be2f20dc2a7ddc23b206bffd76d152cd019a7aacd5b6a5f732d4';
 fetch(url)
   .then((res) => res.text())
   .then((text) => {
